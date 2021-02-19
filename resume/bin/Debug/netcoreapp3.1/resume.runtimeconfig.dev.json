@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Genta\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Genta\\.nuget\\packages"
+    ]
+  }
+}
